@@ -1,0 +1,11 @@
+Severity,Start_Time,Start_Lat,Start_Lng,City,Weather_Condition,Visibility(mi),Wind_Speed(mph),Precipitation(in),Street,Side,Hour,DayOfWeek
+2,2021-01-01 07:00:00,34.05,-118.24,LA,Clear,10,5,0.0,1st Ave,R,7,Friday
+3,2021-01-01 08:00:00,36.17,-115.14,Vegas,Rain,8,10,0.2,1st Ave,R,8,Friday
+2,2021-01-01 09:00:00,40.71,-74.01,NYC,Cloudy,5,8,0.1,1st Ave,R,9,Friday
+4,2021-01-01 10:00:00,41.88,-87.63,Chicago,Snow,2,7,0.4,1st Ave,R,10,Friday
+1,2021-01-01 11:00:00,29.76,-95.36,Houston,Clear,10,6,0.0,1st Ave,R,11,Friday
+2,2021-01-01 12:00:00,34.05,-118.24,LA,Fog,7,5,0.05,1st Ave,R,12,Friday
+3,2021-01-01 13:00:00,36.17,-115.14,Vegas,Rain,6,10,0.3,1st Ave,R,13,Friday
+2,2021-01-01 14:00:00,40.71,-74.01,NYC,Clear,9,8,0.1,1st Ave,R,14,Friday
+1,2021-01-01 15:00:00,41.88,-87.63,Chicago,Cloudy,5,7,0.4,1st Ave,R,15,Friday
+4,2021-01-01 16:00:00,29.76,-95.36,Houston,Rain,4,6,0.2,1st Ave,R,16,Friday
